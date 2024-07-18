@@ -1,2 +1,2 @@
 # CPP-Game-Mechanic
-Tried out coding a game mechanic for RPGs.
+Tried coding out a game mechanic for RPGs.
